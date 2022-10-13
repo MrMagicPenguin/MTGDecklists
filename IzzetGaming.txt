@@ -1,0 +1,22 @@
+Deck
+1 Ardent Elementalist (MID) 128
+4 Play with Fire (MID) 154
+1 Impede Momentum (DMU) 54
+2 Consider (MID) 44
+2 Spell Pierce (NEO) 80
+2 Seize the Storm (MID) 158
+2 Thirst for Discovery (VOW) 85
+1 Burn Down the House (MID) 131
+3 Fading Hope (MID) 51
+2 Otherworldly Gaze (MID) 67
+1 A-Lier, Disciple of the Drowned (MID) 59
+4 Stormcarved Coast (VOW) 265
+9 Island (VOW) 399
+9 Mountain (VOW) 401
+2 Fires of Victory (DMU) 123
+1 Oracle of the Alpha (Y23) 4
+4 Shock (ANB) 84
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Delver of Secrets (MID) 47
+1 Imoen, Trickster Friend (HBG) 7
+4 Ledger Shredder (SNC) 46
